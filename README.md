@@ -1,8 +1,8 @@
 MERN E-Commerce with Admin Panel, Redux Toolkit, Stripe Payment, Email Invoice, and many features.
 
- 
-  Features :
-  
+
+Features :
+
 - Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
 - Secure Card Payments / Cash payments
 - Admin Panel - Add/Edit Orders. Add/Edit Products
@@ -12,8 +12,8 @@ MERN E-Commerce with Admin Panel, Redux Toolkit, Stripe Payment, Email Invoice, 
 - User Profile and user orders
 
 
-  Technical Details :
-  
+Technical Details :
+
 - React 18 with Tailwind CSS
 - Redux Toolkit with Async Thunk
 - React Router v6
